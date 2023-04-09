@@ -1,4 +1,4 @@
-/* Fetching Data from OpenWeatherMap API */
+/* Fetching Data from open weather  API */
 //javascript file 
 let weather = {
   apiKey: "aba6ff9d6de967d5eac6fd79114693cc",
