@@ -108,7 +108,7 @@ document
     }
   });
 
-weather.fetchWeather("Manipal");
+weather.fetchWeather("Akola");
 
 document
   .querySelector(".search-bar")
